@@ -1,0 +1,13 @@
+# Maven / build
+target/
+.gzoltar/
+
+# IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Misc
+structure.txt

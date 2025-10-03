@@ -1,0 +1,88 @@
+.
+├── .defects4j.config
+├── .gitignore
+├── .gzoltar
+│   ├── build
+│   │   ├── META-INF
+│   │   │   ├── LICENSE.txt
+│   │   │   └── NOTICE.txt
+│   │   └── org
+│   │       └── apache
+│   │           └── commons
+│   │               └── csv
+│   │                   ├── ExtendedBufferedReaderTest.java.bak
+│   │                   └── package.html
+│   ├── gzoltar.ser
+│   ├── sfl
+│   │   ├── html
+│   │   │   ├── ochiai
+│   │   │   │   ├── bubblehierarchy.html
+│   │   │   │   ├── gzoltar.js
+│   │   │   │   ├── sunburst.html
+│   │   │   │   └── verticalpartition.html
+│   │   │   └── statistics.csv
+│   │   └── txt
+│   │       ├── matrix.txt
+│   │       ├── ochiai.ranking.csv
+│   │       ├── spectra.csv
+│   │       ├── statistics.csv
+│   │       └── tests.csv
+│   └── tests.txt
+├── LICENSE.txt
+├── NOTICE.txt
+├── build.xml
+├── checkstyle.xml
+├── cp.txt
+├── defects4j.build.properties
+├── maven-build.properties
+├── maven-build.xml
+├── maven-build.xml.bak
+├── pom.xml
+├── src
+│   ├── changes
+│   │   └── changes.xml
+│   ├── main
+│   │   └── java
+│   │       └── org
+│   │           └── apache
+│   │               └── commons
+│   │                   └── csv
+│   │                       ├── CSVFormat.java
+│   │                       ├── CSVLexer.java
+│   │                       ├── CSVParser.java
+│   │                       ├── CSVPrinter.java
+│   │                       ├── CSVRecord.java
+│   │                       ├── ExtendedBufferedReader.java
+│   │                       ├── Lexer.java
+│   │                       ├── Token.java
+│   │                       └── package.html
+│   ├── site
+│   │   ├── resources
+│   │   │   └── images
+│   │   │       ├── logo.png
+│   │   │       └── logo.xcf
+│   │   ├── site.xml
+│   │   └── xdoc
+│   │       ├── cvs-usage.xml
+│   │       ├── downloads.xml
+│   │       ├── examples.xml
+│   │       ├── index.xml
+│   │       ├── issue-tracking.xml
+│   │       └── mail-lists.xml
+│   └── test
+│       └── java
+│           └── org
+│               └── apache
+│                   └── commons
+│                       └── csv
+│                           ├── CSVFormatTest.java
+│                           ├── CSVLexer1.java
+│                           ├── CSVLexerTest.java
+│                           ├── CSVParserTest.java
+│                           ├── CSVPrinterTest.java
+│                           ├── ExtendedBufferedReaderTest.java
+│                           ├── ExtendedBufferedReaderTest.java.bak
+│                           └── PerformanceTest.java
+└── structure.txt
+
+30 directories, 56 files
