@@ -1,12 +1,12 @@
 # gzoltar-defects4j-tdp-implementation
 1 . Add the following pom depenceies:
-<dependency>
+
+    <dependency>
       <groupId>com.gzoltar</groupId>
       <artifactId>com.gzoltar.fl</artifactId>
       <version>1.7.3</version>
     </dependency>
 
-    <!-- GZoltar core APIs -->
     <dependency>
       <groupId>com.gzoltar</groupId>
       <artifactId>com.gzoltar.core</artifactId>
